@@ -1,0 +1,1 @@
+this is my script which remove node 2 only by checking status and other things, now I want to use same script for node1, node2, node 3  and node4  by giving input node1, node2. give me shell scripts for this
